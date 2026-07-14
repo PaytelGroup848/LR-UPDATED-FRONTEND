@@ -1,0 +1,17 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/assignments/page": "app/assignments/page.js",
+  "/licensing/page": "app/licensing/page.js",
+  "/applications/page": "app/applications/page.js",
+  "/logout/page": "app/logout/page.js",
+  "/login-link/[token]/page": "app/login-link/[token]/page.js",
+  "/monitoring/page": "app/monitoring/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/logs/page": "app/logs/page.js",
+  "/portal/page": "app/portal/page.js",
+  "/sessions/page": "app/sessions/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/web-access/page": "app/web-access/page.js",
+  "/users/page": "app/users/page.js"
+}
