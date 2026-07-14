@@ -1,0 +1,694 @@
+
+> lr-remote-access-frontend@1.0.0 dev
+> node scripts/next-dev.mjs
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+  - Network:      http://0.0.0.0:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 3.4s
+ ⚠ Cross origin request detected from 191.44.87.38 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ○ Compiling /login-link/[token] ...
+ ✓ Compiled /login-link/[token] in 6.3s (470 modules)
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET /login-link/-mwCeHsnJEd1eqsVn50q_ElbjRC7tqYX0cNgzO6zZhQ 200 in 6915ms
+ GET /_next/static/webpack/5953d2e13495321a.webpack.hot-update.json 404 in 7065ms
+ GET /login-link/-mwCeHsnJEd1eqsVn50q_ElbjRC7tqYX0cNgzO6zZhQ 200 in 626ms
+ ○ Compiling /login ...
+ ✓ Compiled /login in 951ms (471 modules)
+ GET /login 200 in 609ms
+ GET /login 200 in 1206ms
+ GET /login-link/-mwCeHsnJEd1eqsVn50q_ElbjRC7tqYX0cNgzO6zZhQ 200 in 768ms
+ ○ Compiling /middleware ...
+ ✓ Compiled /middleware in 567ms (72 modules)
+ GET /login 200 in 57ms
+ ○ Compiling /portal ...
+ ✓ Compiled /portal in 972ms (523 modules)
+ GET /portal 200 in 123ms
+ GET /portal 200 in 51ms
+ GET /portal 200 in 50ms
+ GET /portal 200 in 61ms
+ GET /login 200 in 63ms
+ ○ Compiling /logout ...
+ ✓ Compiled /logout in 569ms (526 modules)
+ GET /logout 200 in 763ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 1041ms (558 modules)
+ ○ Compiling /users ...
+ ✓ Compiled /users in 860ms (568 modules)
+ GET /users 200 in 91ms
+ GET /login 200 in 73ms
+ POST /login 200 in 96ms
+ ✓ Compiled /_not-found in 472ms (567 modules)
+ POST /mcp 404 in 633ms
+ GET /sse 404 in 66ms
+ GET /portal 200 in 92ms
+ GET /login-link/SgZ371-wVf4KEUR6gwTF8no-2BwUI8dVlh2VIcw1ohk 200 in 99ms
+ GET /login 200 in 74ms
+ GET /portal 200 in 76ms
+ GET /portal 200 in 70ms
+ GET /portal 200 in 83ms
+ GET /portal 200 in 71ms
+ GET /login 200 in 69ms
+ GET /login 200 in 42ms
+ ✓ Compiled /logout in 269ms (289 modules)
+ GET /logout 200 in 458ms
+ GET /login 200 in 50ms
+ ⚠ Cross origin request detected from lrremote.cloudata.in to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ GET /login 200 in 81ms
+ ✓ Compiled /_not-found in 403ms (567 modules)
+ GET /wiki 404 in 744ms
+ GET /login 200 in 62ms
+ ✓ Compiled in 715ms (564 modules)
+ ✓ Compiled /_not-found in 439ms (567 modules)
+ GET /login 404 in 615ms
+ POST /mcp 404 in 42ms
+ GET /sse 404 in 56ms
+ GET /login 404 in 86ms
+ GET /_next/static/css/app/layout.css?v=1783082261419 404 in 52ms
+ GET /_next/static/chunks/main-app.js?v=1783082261419 404 in 77ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 76ms
+ GET /login 404 in 50ms
+ GET /_next/static/css/app/layout.css?v=1783082271922 404 in 61ms
+ GET /_next/static/chunks/main-app.js?v=1783082271922 404 in 56ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 42ms
+ GET /login 404 in 39ms
+ GET /_next/static/css/app/layout.css?v=1783082311234 404 in 41ms
+ GET /_next/static/chunks/main-app.js?v=1783082311234 404 in 47ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 45ms
+ GET /login 404 in 48ms
+ GET /_next/static/css/app/layout.css?v=1783082316971 404 in 52ms
+ GET /_next/static/chunks/main-app.js?v=1783082316971 404 in 64ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 59ms
+ GET /login 404 in 48ms
+ GET /_next/static/css/app/layout.css?v=1783082317821 404 in 38ms
+ GET /_next/static/chunks/main-app.js?v=1783082317821 404 in 48ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 42ms
+ GET /login 404 in 65ms
+ GET /_next/static/css/app/layout.css?v=1783082318057 404 in 42ms
+ GET /_next/static/chunks/main-app.js?v=1783082318057 404 in 49ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 46ms
+ GET /login 404 in 42ms
+ GET /_next/static/css/app/layout.css?v=1783082318297 404 in 49ms
+ GET /_next/static/chunks/main-app.js?v=1783082318297 404 in 55ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 49ms
+ GET /login 404 in 66ms
+ GET /_next/static/css/app/layout.css?v=1783082319603 404 in 33ms
+ GET /_next/static/chunks/main-app.js?v=1783082319603 404 in 40ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 26ms
+ GET /login 404 in 63ms
+ GET /_next/static/css/app/layout.css?v=1783082323993 404 in 29ms
+ GET /_next/static/chunks/main-app.js?v=1783082323993 404 in 34ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 21ms
+   Reload env: .env.local
+ ✓ Compiled in 1136ms (636 modules)
+ ⚠ Found a change in next.config.mjs. Restarting the server to apply the changes...
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+  - Network:      http://0.0.0.0:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 4s
+ ○ Compiling /login-link/[token] ...
+ ✓ Compiled /login-link/[token] in 5.8s (467 modules)
+ GET /login-link/-mwCeHsnJEd1eqsVn50q_ElbjRC7tqYX0cNgzO6zZhQ 200 in 6953ms
+(node:7484) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ ⚠ Cross origin request detected from 191.44.87.38 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ○ Compiling /middleware ...
+ ✓ Compiled /middleware in 655ms (72 modules)
+ ○ Compiling /portal ...
+ ✓ Compiled /portal in 1078ms (505 modules)
+ GET /portal 200 in 1303ms
+ GET /portal 200 in 55ms
+ GET /portal 200 in 68ms
+ ○ Compiling /login ...
+ ✓ Compiled /login in 634ms (493 modules)
+ GET /login 200 in 853ms
+ ✓ Compiled /_not-found in 440ms (487 modules)
+ GET /v1/models 404 in 525ms
+ GET /mcp 404 in 53ms
+ GET /.well-known/mcp.json 404 in 44ms
+ GET /.well-known/agent.json 404 in 54ms
+ GET /invocations 404 in 40ms
+ ✓ Compiled /login in 174ms (235 modules)
+ GET /login 200 in 292ms
+ ✓ Compiled /_not-found in 346ms (496 modules)
+ GET /robots.txt 404 in 418ms
+Error: Failed to find Server Action "x". This request might be from an older or newer deployment. 
+    at rC (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:40:1694)
+    at rk (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:38:6522)
+    at ne (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:42:1262)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:726
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:17827)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:616
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:16929)
+    at nt (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:543)
+    at nb.render (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:4699)
+    at doRender (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1427:44)
+    at cacheEntry.responseCache.get.routeKind (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1588:34)
+    at ResponseCache.get (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\response-cache\index.js:49:26)
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1496:53)
+ POST /login 200 in 66ms
+ GET /login 200 in 63ms
+ GET /login 200 in 60ms
+ GET /login 200 in 48ms
+ GET /login 200 in 53ms
+ GET /api/health 404 in 67ms
+ GET /login 200 in 51ms
+Error: Failed to find Server Action "x". This request might be from an older or newer deployment. 
+    at rC (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:40:1694)
+    at rk (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:38:6522)
+    at ne (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:42:1262)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:726
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:17827)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:616
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:16929)
+    at nt (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:543)
+    at nb.render (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:4699)
+    at doRender (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1427:44)
+    at cacheEntry.responseCache.get.routeKind (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1588:34)
+    at ResponseCache.get (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\response-cache\index.js:49:26)
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1496:53)
+ POST /login 200 in 70ms
+ ○ Compiling /portal ...
+ ✓ Compiled /portal in 542ms (262 modules)
+ ✓ Compiled /logout in 433ms (526 modules)
+ GET /logout 200 in 578ms
+ GET /logout 200 in 52ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 696ms (558 modules)
+ ✓ Compiled /users in 483ms (568 modules)
+ ○ Compiling /applications ...
+ ✓ Compiled /applications in 619ms (569 modules)
+ ✓ Compiled /assignments in 502ms (579 modules)
+ ○ Compiling /sessions ...
+ ✓ Compiled /sessions in 533ms (581 modules)
+ ○ Compiling /monitoring ...
+ ✓ Compiled /monitoring in 1316ms (694 modules)
+ ○ Compiling /logs ...
+ ✓ Compiled /logs in 654ms (696 modules)
+ ○ Compiling /licensing ...
+ ✓ Compiled /licensing in 559ms (709 modules)
+ ○ Compiling /settings ...
+ ✓ Compiled /settings in 849ms (714 modules)
+ ✓ Compiled /login in 217ms (368 modules)
+ GET /login 200 in 474ms
+ GET /login 200 in 43ms
+ ✓ Compiled /portal in 257ms (367 modules)
+ GET /portal 200 in 152ms
+ GET /login 200 in 45ms
+ ✓ Compiled /_not-found in 460ms (632 modules)
+ GET /settings 404 in 586ms
+ GET /_next/static/css/app/layout.css?v=1783167684399 404 in 47ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 33ms
+ GET /_next/static/chunks/main-app.js?v=1783167684399 404 in 36ms
+ GET /login 200 in 66ms
+ GET /login 200 in 59ms
+ ✓ Compiled in 883ms (629 modules)
+ ✓ Compiled in 557ms (629 modules)
+ ✓ Compiled in 767ms (643 modules)
+ ✓ Compiled in 829ms (629 modules)
+ ✓ Compiled in 708ms (629 modules)
+ ✓ Compiled in 658ms (643 modules)
+Error: Failed to find Server Action "x". This request might be from an older or newer deployment. 
+    at rC (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:40:1694)
+    at rk (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:38:6522)
+    at ne (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:42:1262)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:726
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:17827)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:616
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:16929)
+    at nt (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:543)
+    at nb.render (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:4699)
+    at doRender (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1427:44)
+    at cacheEntry.responseCache.get.routeKind (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1588:34)
+    at ResponseCache.get (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\response-cache\index.js:49:26)
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1496:53)
+ POST /login 200 in 80ms
+ GET /login 200 in 85ms
+ ✓ Compiled /logout in 484ms (296 modules)
+ GET /logout 200 in 773ms
+ GET /login 200 in 42ms
+Error: Failed to find Server Action "x". This request might be from an older or newer deployment. 
+    at rC (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:40:1694)
+    at rk (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:38:6522)
+    at ne (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:42:1262)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:726
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:17827)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:616
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:16929)
+    at nt (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:543)
+    at nb.render (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:4699)
+    at doRender (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1427:44)
+    at cacheEntry.responseCache.get.routeKind (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1588:34)
+    at ResponseCache.get (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\response-cache\index.js:49:26)
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1496:53)
+ POST /login 200 in 47ms
+ GET /logout 200 in 48ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 1176ms (632 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /_next/static/webpack/54c1cc8aa386f65a.webpack.hot-update.json 404 in 808ms
+ GET /portal 200 in 69ms
+ ✓ Compiled in 911ms (632 modules)
+ ✓ Compiled in 521ms (646 modules)
+ ✓ Compiled in 1658ms (629 modules)
+ ✓ Compiled in 770ms (629 modules)
+ ✓ Compiled in 1422ms (629 modules)
+ ✓ Compiled in 1085ms (629 modules)
+ GET /portal 200 in 118ms
+ GET /portal 200 in 58ms
+ ✓ Compiled /logout in 367ms (296 modules)
+ GET /logout 200 in 490ms
+ GET /portal 200 in 66ms
+ GET /login 200 in 58ms
+ GET /login 200 in 40ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 567ms (632 modules)
+ GET /4kxcm7irnqsx40 404 in 659ms
+ GET /project/default 404 in 50ms
+ GET /cgi-bin/main.pl 404 in 45ms
+ GET /api/session/properties 404 in 52ms
+ GET /login 200 in 63ms
+ GET /login 200 in 69ms
+Error: Failed to find Server Action "x". This request might be from an older or newer deployment. 
+    at rC (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:40:1694)
+    at rk (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:38:6522)
+    at ne (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:42:1262)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:726
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:17827)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:616
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:16929)
+    at nt (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:543)
+    at nb.render (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:4699)
+    at doRender (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1427:44)
+    at cacheEntry.responseCache.get.routeKind (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1588:34)
+    at ResponseCache.get (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\response-cache\index.js:49:26)
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1496:53)
+ POST /login 200 in 87ms
+ GET /login 200 in 42ms
+ GET /login 200 in 70ms
+ GET /us7i8j2hl 404 in 75ms
+ GET /login 200 in 50ms
+Error: Failed to find Server Action "x". This request might be from an older or newer deployment. 
+    at rC (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:40:1694)
+    at rk (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:38:6522)
+    at ne (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:42:1262)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:726
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:17827)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:616
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:16929)
+    at nt (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:543)
+    at nb.render (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:4699)
+    at doRender (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1427:44)
+    at cacheEntry.responseCache.get.routeKind (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1588:34)
+    at ResponseCache.get (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\response-cache\index.js:49:26)
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1496:53)
+ POST /login 200 in 53ms
+Error: Failed to find Server Action "x". This request might be from an older or newer deployment. 
+    at rC (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:40:1694)
+    at rk (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:38:6522)
+    at ne (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:42:1262)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:726
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:17827)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:616
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:16929)
+    at nt (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:543)
+    at nb.render (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:4699)
+    at doRender (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1427:44)
+    at cacheEntry.responseCache.get.routeKind (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1588:34)
+    at ResponseCache.get (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\response-cache\index.js:49:26)
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1496:53)
+ POST /login 200 in 78ms
+ GET /login 200 in 53ms
+ GET /login 200 in 57ms
+ GET /login 200 in 49ms
+Error: Failed to find Server Action "x". This request might be from an older or newer deployment. 
+    at rC (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:40:1694)
+    at rk (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:38:6522)
+    at ne (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:42:1262)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:726
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:17827)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:616
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:16929)
+    at nt (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:543)
+    at nb.render (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:4699)
+    at doRender (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1427:44)
+    at cacheEntry.responseCache.get.routeKind (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1588:34)
+    at ResponseCache.get (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\response-cache\index.js:49:26)
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1496:53)
+ POST /login 200 in 63ms
+ GET /login 200 in 74ms
+ GET /v404/exec?jwt=29075 404 in 66ms
+ GET /nice%20ports%2C/Tri%6Eity.txt%2ebak 404 in 27ms
+ GET /user 404 in 34ms
+ GET /+CSCOE+/logon.html 404 in 35ms
+ GET /dana-cached/hc/HostCheckerInstaller.osx 404 in 46ms
+ GET /dniapi/userInfos 404 in 34ms
+ GET /webui 404 in 56ms
+ GET /CFIDE/componentutils 404 in 57ms
+ GET /login.php 404 in 41ms
+ GET /human.aspx?arg12=infotech 404 in 50ms
+ GET /api/v2/about 404 in 38ms
+ GET /health 404 in 31ms
+ GET /cgi-mod/header_logo.cgi?size=big 404 in 49ms
+ GET /dana-na/nc/nc_gina_ver.txt 404 in 81ms
+ GET /login 200 in 77ms
+ GET /geoserver/index.html 404 in 36ms
+ GET /geoserver/web/wicket/bookmarkable/org.geoserver.web.AboutGeoServerPage 404 in 55ms
+ GET /Account/Login 404 in 66ms
+ GET /geoserver 404 in 45ms
+ GET /cgi-bin/info.cgi 404 in 44ms
+ GET /xml/info.xml 404 in 37ms
+ GET /magento_version 404 in 43ms
+ GET /api/v1/check-version 404 in 46ms
+ GET /fog/management/index.php?node=client&sub=logininfo 404 in 44ms
+ GET /helpdesk/WebObjects/Helpdesk.woa 404 in 34ms
+ GET /login 200 in 88ms
+ GET /apps/zxtm/login.cgi 404 in 32ms
+ GET /cluster/list.query 404 in 29ms
+ GET /administrator/manifests/files/joomla.xml 404 in 44ms
+ GET /language/en-GB/en-GB.xml 404 in 42ms
+ GET /versa/login 404 in 60ms
+ GET /login.html 404 in 72ms
+ GET /ise/img/rm-logo_small.png 404 in 35ms
+ GET /api/version 404 in 24ms
+ GET /status 404 in 37ms
+ GET /info.asp 404 in 32ms
+ GET /p/login 404 in 36ms
+ GET /portal 200 in 95ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 924ms (636 modules)
+ GET /lms/db 404 in 1046ms
+ GET /ext-js/app/common/zld_product_spec.js 404 in 727ms
+ GET /allversions 404 in 620ms
+ GET /login/login.html 404 in 621ms
+ GET /images/logo.png 404 in 409ms
+ GET /r-seenet/index.php 404 in 285ms
+ GET /versions 404 in 285ms
+ GET /dashboard 200 in 1182ms
+ GET /api/vip/i18n/api/v2/translation/products/vRNIUI/versions/1 404 in 64ms
+ GET /tos/index.php?user/login 404 in 61ms
+ GET /c/login 404 in 68ms
+ GET /WebApp/js/UI_String.js 404 in 34ms
+ GET /login.aspx 404 in 34ms
+ GET /officescan/console/cgi/cgiChkMasterPwd.exe 404 in 34ms
+ GET /officescan/console/html/localization.js 404 in 30ms
+ GET /phoenix/favicon.ico 404 in 28ms
+ GET /IPCamDesc.xml 404 in 64ms
+ GET /api/v1.0/environment 404 in 48ms
+ GET /webui/index.html 404 in 49ms
+ GET /cslu/v1/core/conf 404 in 39ms
+ GET /config 404 in 38ms
+ GET /kylin 404 in 60ms
+ GET /CHANGELOG.txt 404 in 67ms
+ GET /admin/reports/status 404 in 35ms
+ GET /admin/reports/updates 404 in 33ms
+ GET /assets/png/favicon-abe32304.png 404 in 32ms
+ GET /javascript/validation/OEM.js 404 in 78ms
+ GET /webportal.cgi 404 in 37ms
+ GET /build.gradle 404 in 37ms
+ GET /routes 404 in 42ms
+ GET /pom.xml 404 in 41ms
+ GET /workplace/home.action 404 in 47ms
+ GET /css/eonweb.css 404 in 73ms
+ GET /App_Themes/Default/Images/favicon.ico 404 in 17ms
+ GET /cgi-bin/authLogin.cgi 404 in 45ms
+ GET /centreon/api/latest/platform/versions 404 in 46ms
+ GET /css/elfinder.min.css 404 in 37ms
+ GET /api/v3/meta 404 in 36ms
+ GET /pandora_console 404 in 42ms
+ GET /am_bin/amlogin 404 in 30ms
+ GET /system/version/current 404 in 32ms
+ GET /geoserver/web 404 in 50ms
+ GET /api/v1/version 404 in 54ms
+ GET /images/logo.gif 404 in 61ms
+ GET /hx/api/about 404 in 50ms
+ GET /i18n/component/JS 404 in 46ms
+ GET /app/ui/login.jsp 404 in 58ms
+ GET /MagicInfo/config.js 404 in 35ms
+ GET /plugin/webs_model_cfg.js 404 in 78ms
+ GET /login?next=%2F 200 in 63ms
+Error handling upgrade request TypeError: Cannot read properties of undefined (reading 'bind')
+    at DevServer.handleRequestImpl (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:476:50)
+    at async C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\dev\next-dev-server.js:336:24)
+    at async handleRoute (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\lib\router-utils\resolve-routes.js:313:33)
+    at async resolveRoutes (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\lib\router-utils\resolve-routes.js:552:28)
+    at async upgradeHandler (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\lib\router-server.js:474:50)
+    at async Server.<anonymous> (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\lib\start-server.js:170:13)
+ GET /@vite/client 404 in 57ms
+ GET /login 200 in 82ms
+ GET /api/v1/users/search 404 in 42ms
+Error: Failed to find Server Action "x". This request might be from an older or newer deployment. 
+    at rC (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:40:1694)
+    at rk (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:38:6522)
+    at ne (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:42:1262)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:726
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:17827)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:616
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:16929)
+    at nt (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:543)
+    at nb.render (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:4699)
+    at doRender (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1427:44)
+    at cacheEntry.responseCache.get.routeKind (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1588:34)
+    at ResponseCache.get (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\response-cache\index.js:49:26)
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1496:53)
+ POST /login 200 in 75ms
+ GET /login 200 in 45ms
+ GET /platform.json 404 in 48ms
+Error: Failed to find Server Action "x". This request might be from an older or newer deployment. 
+    at rC (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:40:1694)
+    at rk (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:38:6522)
+    at ne (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:42:1262)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:726
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:17827)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:616
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:16929)
+    at nt (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:543)
+    at nb.render (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:4699)
+    at doRender (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1427:44)
+    at cacheEntry.responseCache.get.routeKind (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1588:34)
+    at ResponseCache.get (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\response-cache\index.js:49:26)
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1496:53)
+ POST /login 200 in 54ms
+ ○ Compiling /_error ...
+Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\DumpStack.log.tmp'
+Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\pagefile.sys'
+ ✓ Compiled /_error in 2.5s (866 modules)
+Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\DumpStack.log.tmp'
+Watchpack Error (initial scan): Error: EINVAL: invalid argument, lstat 'C:\pagefile.sys'
+ GET /login 404 in 2852ms
+ ✓ Compiled in 718ms (863 modules)
+ ✓ Compiled in 852ms (863 modules)
+ HEAD /login 200 in 227ms
+Error: Failed to find Server Action "x". This request might be from an older or newer deployment. 
+    at rC (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:40:1694)
+    at rk (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:38:6522)
+    at ne (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:42:1262)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:726
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:17827)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:616
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:16929)
+    at nt (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:543)
+    at nb.render (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:4699)
+    at doRender (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1427:44)
+    at cacheEntry.responseCache.get.routeKind (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1588:34)
+    at ResponseCache.get (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\response-cache\index.js:49:26)
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1496:53)
+ POST /login 200 in 51ms
+ ✓ Compiled /login-link/[token] in 490ms (337 modules)
+ GET /login-link/szu3E9YODbsjOzrKVVI7DeUN-jPhmXcnlr8gNBZ6d4s 200 in 720ms
+ ✓ Compiled /_not-found in 448ms (870 modules)
+ GET /_next/static/chunks/app/login-link/%5Btoken%5D/page.js 404 in 551ms
+ GET /login-link/szu3E9YODbsjOzrKVVI7DeUN-jPhmXcnlr8gNBZ6d4s 200 in 100ms
+ GET /_next/static/chunks/app/login-link/%5Btoken%5D/page.js 404 in 34ms
+ GET /login 200 in 69ms
+Watchpack Error (stats): Error: EINVAL: invalid argument, lstat 'C:\pagefile.sys'
+Watchpack Error (stats): Error: EINVAL: invalid argument, lstat 'C:\pagefile.sys'
+Watchpack Error (stats): Error: EINVAL: invalid argument, lstat 'C:\pagefile.sys'
+Watchpack Error (stats): Error: EINVAL: invalid argument, lstat 'C:\pagefile.sys'
+Watchpack Error (stats): Error: EINVAL: invalid argument, lstat 'C:\pagefile.sys'
+Watchpack Error (stats): Error: EINVAL: invalid argument, lstat 'C:\pagefile.sys'
+ GET /portal 200 in 132ms
+ GET /portal 200 in 65ms
+ GET /portal 200 in 106ms
+ GET /portal 200 in 46ms
+ GET /portal 200 in 61ms
+ GET /login 200 in 55ms
+Error: Failed to find Server Action "x". This request might be from an older or newer deployment. 
+    at rC (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:40:1694)
+    at rk (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:38:6522)
+    at ne (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:42:1262)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:726
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:17827)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:616
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:16929)
+    at nt (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:543)
+    at nb.render (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:4699)
+    at doRender (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1427:44)
+    at cacheEntry.responseCache.get.routeKind (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1588:34)
+    at ResponseCache.get (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\response-cache\index.js:49:26)
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1496:53)
+ POST /login 200 in 63ms
+ GET /login 200 in 49ms
+ ✓ Compiled in 889ms (863 modules)
+ ✓ Compiled in 1129ms (863 modules)
+ ✓ Compiled in 806ms (877 modules)
+ ✓ Compiled in 1881ms (863 modules)
+ ✓ Compiled in 1956ms (863 modules)
+ ✓ Compiled in 916ms (863 modules)
+ GET /login 200 in 331ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 1014ms (866 modules)
+ GET /1f5bw4z10ivrdo 404 in 1194ms
+ GET /login 200 in 66ms
+ GET /portal 200 in 63ms
+ ✓ Compiled /logout in 427ms (337 modules)
+ GET /logout 200 in 611ms
+ GET /portal 200 in 93ms
+ HEAD /login 200 in 44ms
+Error: Failed to find Server Action "x". This request might be from an older or newer deployment. 
+    at rC (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:40:1694)
+    at rk (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:38:6522)
+    at ne (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:42:1262)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:726
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:17827)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:616
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:16929)
+    at nt (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:543)
+    at nb.render (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:4699)
+    at doRender (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1427:44)
+    at cacheEntry.responseCache.get.routeKind (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1588:34)
+    at ResponseCache.get (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\response-cache\index.js:49:26)
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1496:53)
+ POST /login 200 in 46ms
+ GET /logout 200 in 72ms
+ ✓ Compiled /dashboard in 382ms (341 modules)
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 615ms (874 modules)
+ GET /_next/static/chunks/app/dashboard/page.js 404 in 733ms
+ GET /dashboard 200 in 91ms
+ GET /_next/static/chunks/app/dashboard/page.js 404 in 32ms
+ GET /dashboard 200 in 61ms
+ GET /_next/static/chunks/app/dashboard/page.js 404 in 30ms
+ GET /logout 200 in 65ms
+ GET /login 200 in 64ms
+ GET /lo7znyds6k7q4 404 in 29ms
+ GET /login 200 in 84ms
+ GET /login 200 in 53ms
+ GET /ezuwqlc3m49txbt5b 404 in 49ms
+ GET /login 200 in 86ms
+ GET /v404/exec?jwt=29075 404 in 66ms
+ GET /login 200 in 68ms
+ GET /wiki 404 in 58ms
+Error: Failed to find Server Action "x". This request might be from an older or newer deployment. 
+    at rC (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:40:1694)
+    at rk (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:38:6522)
+    at ne (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:42:1262)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:726
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:17827)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:616
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:16929)
+    at nt (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:543)
+    at nb.render (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:4699)
+    at doRender (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1427:44)
+    at cacheEntry.responseCache.get.routeKind (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1588:34)
+    at ResponseCache.get (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\response-cache\index.js:49:26)
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1496:53)
+ POST /login 200 in 61ms
+ GET /v1/models 404 in 38ms
+ GET /mcp 404 in 45ms
+ GET /.well-known/mcp.json 404 in 42ms
+ GET /.well-known/agent.json 404 in 67ms
+ GET /invocations 404 in 51ms
+Error: Failed to find Server Action "x". This request might be from an older or newer deployment. 
+    at rC (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:40:1694)
+    at rk (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:38:6522)
+    at ne (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:42:1262)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:726
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:17827)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:616
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:16929)
+    at nt (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:543)
+    at nb.render (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:4699)
+    at doRender (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1427:44)
+    at cacheEntry.responseCache.get.routeKind (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1588:34)
+    at ResponseCache.get (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\response-cache\index.js:49:26)
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1496:53)
+ POST /login 200 in 79ms
+Error: Failed to find Server Action "x". This request might be from an older or newer deployment. 
+    at rC (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:40:1694)
+    at rk (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:38:6522)
+    at ne (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:42:1262)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:726
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:17827)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:616
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:16929)
+    at nt (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:543)
+    at nb.render (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:4699)
+    at doRender (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1427:44)
+    at cacheEntry.responseCache.get.routeKind (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1588:34)
+    at ResponseCache.get (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\response-cache\index.js:49:26)
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1496:53)
+ POST /login 200 in 79ms
+ GET /login 200 in 96ms
+ GET /login 200 in 62ms
+ GET /.env 404 in 45ms
+Error: Failed to find Server Action "x". This request might be from an older or newer deployment. 
+    at rC (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:40:1694)
+    at rk (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:38:6522)
+    at ne (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:42:1262)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:726
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:17827)
+    at C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:616
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+    at Object.wrap (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:16929)
+    at nt (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:543)
+    at nb.render (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:43:4699)
+    at doRender (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1427:44)
+    at cacheEntry.responseCache.get.routeKind (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1588:34)
+    at ResponseCache.get (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\response-cache\index.js:49:26)
+    at DevServer.renderToResponseWithComponentsImpl (C:\Users\Administrator\Desktop\lr-platform\lr-platform\frontend\node_modules\next\dist\server\base-server.js:1496:53)
+ POST /login 200 in 47ms
