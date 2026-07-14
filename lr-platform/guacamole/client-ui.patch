@@ -1,0 +1,29 @@
+diff --git a/guacamole/src/main/frontend/src/app/client/directives/guacClientNotification.js b/guacamole/src/main/frontend/src/app/client/directives/guacClientNotification.js
+index 47b6cdb3..31864f6c 100644
+--- a/guacamole/src/main/frontend/src/app/client/directives/guacClientNotification.js
++++ b/guacamole/src/main/frontend/src/app/client/directives/guacClientNotification.js
+@@ -257,8 +257,7 @@ angular.module('client').directive('guacClientNotification', [function guacClien
+                     title   : "CLIENT.DIALOG_HEADER_DISCONNECTED",
+                     text    : {
+                         key : "CLIENT.TEXT_CLIENT_STATUS_" + connectionState.toUpperCase()
+-                    },
+-                    actions : actions
++                    }
+                 });
+             }
+ 
+diff --git a/guacamole/src/main/frontend/src/translations/en.json b/guacamole/src/main/frontend/src/translations/en.json
+index 4dd299de..7be52985 100644
+--- a/guacamole/src/main/frontend/src/translations/en.json
++++ b/guacamole/src/main/frontend/src/translations/en.json
+@@ -155,7 +155,7 @@
+         "TEXT_ZOOM_AUTO_FIT"              : "Automatically fit to browser window",
+         "TEXT_CLIENT_STATUS_IDLE"         : "Idle.",
+         "TEXT_CLIENT_STATUS_CONNECTING"   : "Connecting to Guacamole...",
+-        "TEXT_CLIENT_STATUS_DISCONNECTED" : "You have been disconnected.",
++        "TEXT_CLIENT_STATUS_DISCONNECTED" : "Your LR Remote Access session has ended.",
+         "TEXT_CLIENT_STATUS_UNSTABLE"     : "The network connection to the Guacamole server appears unstable.",
+-        "TEXT_CLIENT_STATUS_WAITING"      : "Connected to Guacamole. Waiting for response...",
++        "TEXT_CLIENT_STATUS_WAITING"      : "We're securing your connection to ensure a safe browsing experience. Please wait a moment....",
+         "TEXT_USER_JOINED"                : "{USERNAME} has joined the connection.",
+         "TEXT_USER_LEFT"                  : "{USERNAME} has left the connection.",
