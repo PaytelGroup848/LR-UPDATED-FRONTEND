@@ -21,6 +21,12 @@ logs/
 *.log
 
 # Frontend build output
+node_modules
+.next
+.next-dev
+.env.local
+
+# Frontend build output
 /node_modules/
 /.next/
 /.next-dev/
